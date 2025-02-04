@@ -1,2 +1,1 @@
-# CSharp-Library-Management-System
-"A simple library management system to track books, borrow/return books, and manage book records.
+This project is a simple library management system built in C# that allows users to add/remove books, borrow and return books, and view the list of books in the library.
